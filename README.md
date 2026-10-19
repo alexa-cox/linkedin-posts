@@ -48,7 +48,7 @@ Before using a link, open it in a private browser window. If it shows only the i
 
 ## License
 
-All rights reserved. See [LICENSE](LICENSE). The files in this repository are for my exclusive use.
+All rights reserved. See [LICENSE](LICENSE.md). The files in this repository are for my exclusive use.
 
 ## Contact
 
